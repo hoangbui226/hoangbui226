@@ -2,7 +2,7 @@
 
 **`Embedded Systems Enthusiast`**
 
-I'm a second year Embedded student enjoy designing and implementing hands on project with microcontrollers and sensors.
+I'm a **2nd year Embedded student** enjoy designing and implementing hands on project with microcontrollers and sensors.
 
 This github page contains my learning projects, following **professional structure** of a real and practical Embedded workflow. 
 
