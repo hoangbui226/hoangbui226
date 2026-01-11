@@ -18,8 +18,7 @@ This github page contains my learning projects, following **professional structu
          <img alt="Facebook" title="Contact me here" src="https://custom-icon-badges.demolab.com/badge/Facebook-%231877F2?logo=facebook&logoColor=white&style=for-the-badge"/></a>
    </p>
 ---
-
-# 🧰 Languages and Tools
+### 🧰 Languages and Tools
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
