@@ -19,7 +19,7 @@ This github page contains my learning projects, following **professional structu
    </p>
 ---
 
-### 🧰 Languages and Tools
+# 🧰 Languages and Tools
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
