@@ -9,7 +9,7 @@ This github page contains my learning projects, following **professional structu
 🔗 Contact me here
 
 <p align="left">
-  <a href="mailto:buithaihoang@gmail.com">
+  <a href="mailto:hoangtbui.work@gmail.com">
     <img alt="Gmail" title="Email me here" src="https://custom-icon-badges.demolab.com/badge/Gmail-%23D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/hoang-bui-a1690432a/">
